@@ -14,19 +14,16 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    background_color: '#c8d5b9'
+    background_color: '#FFFFE0'
     heading:
-      heading_text: Astro Bookshop Starter
-      heading_gradient_color: '#FF785A'
+      heading_text: Filipa
+      heading_gradient_color: '#333232'
     subheading:
       markdown_content: >-
-        A starting point for **developers looking to build a website with Astro,
-        using Bookshop components in CloudCannon**. Create your own copy, and
-        start creating your own components to use in the CloudCannon CMS.<br>A
-        new line.
-
-
-        A new paragraph<br>With another new line
+        Jsme specialisté na kvalitní pracovní oděvy a zakázkové výrobky. Naše
+        nabídka zahrnuje pracovní oděvy, tašky, zástěry a další produkty šité na
+        míru vašim potřebám. Dbáme na pohodlí, funkčnost a dlouhou životnost
+        našich výrobků. Přijďte se přesvědčit o kvalitě, která vás nezklame.
       color: '#393939'
     image:
       image_path: /src/assets/images/featured-image-5.jpg

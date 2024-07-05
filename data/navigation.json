@@ -3,7 +3,7 @@
     "logo": "/images/logos/logo-wordmark-blue.png",
     "logo_url": "/",
     "background_color": "#FFD700",
-    "color": "#393939",
+    "color": "#333232",
     "links": [
       {
         "link": "/blog/",
@@ -18,7 +18,7 @@
   "footer": {
     "logo": "/images/logos/logo-wordmark-white.png",
     "logo_url": "/",
-    "copyright": "MyCompany. All rights reserved.",
+    "copyright": "Filipa. All rights reserved.",
     "background_color": "#333232",
     "color": "#ffffff",
     "links": [
