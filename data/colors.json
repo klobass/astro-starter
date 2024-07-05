@@ -1,9 +1,17 @@
 [
-  { "name": "White", "value": "#ffffff" },
-  { "name": "Black", "value": "#000000" },
-  { "name": "Gray", "value": "#808080" },
-  { "name": "Light Gray", "value": "#f2f2f2" },
-  { "name": "Dark Gray", "value": "#333333" },
+  { "name": "Primary Color", "value": "#FFD700" },  // žlutá
+  { "name": "Primary Dark Color", "value": "#FFA000" },  // tmavší odstín žluté
+  { "name": "Primary Light Color", "value": "#FFFFE0" },  // světlejší odstín žluté
+  { "name": "Secondary Color", "value": "#FF0000" },  // červená
+  { "name": "Secondary Dark Color", "value": "#B20000" },  // tmavší odstín červené
+  { "name": "Secondary Light Color", "value": "#FFCCCC" },  // světlejší odstín červené
+  { "name": "Background Color", "value": "#FFFFFF" },  // bílá
+  { "name": "Surface Color", "value": "#F2F2F2" },  // světle šedá
+  { "name": "Error Color", "value": "#B00020" },  // standardní error barva Material Designu
+  { "name": "On Primary Color", "value": "#000000" },  // text na hlavní barvě
+  { "name": "On Secondary Color", "value": "#FFFFFF" },  // text na sekundární barvě
+  { "name": "On Background Color", "value": "#000000" },  // text na pozadí
+  { "name": "On Surface Color", "value": "#000000" },  // text na povrchu
   { "name": "Primary Font Color", "value": "#393939" },
   { "name": "Secondary Font Color", "value": "#475569" },
   { "name": "Tertiary Font Color", "value": "#94a3b8" },

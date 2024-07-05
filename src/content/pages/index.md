@@ -14,10 +14,10 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    background_color: '#ffffff'
+    background_color: '#c8d5b9'
     heading:
       heading_text: Astro Bookshop Starter
-      heading_gradient_color: '#a0a2ff'
+      heading_gradient_color: '#FF785A'
     subheading:
       markdown_content: >-
         A starting point for **developers looking to build a website with Astro,
@@ -36,9 +36,9 @@ content_blocks:
         button_text: GitHub
         button_icon: Github
         button_link: https://www.cloudcannon.com
-        background_color: '#034ad8'
+        background_color: '#FF785A'
         hover_brightness: 0.85
-        text_color: '#ffffff'
+        text_color: '#393939'
       - _bookshop_name: buttons/secondary
         button_text: CloudCannon
         button_icon: CloudCannon
